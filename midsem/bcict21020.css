@@ -1,0 +1,346 @@
+.bg{
+    background-image: url(pic/na.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.nkn{
+    position: relative;
+    size: 50px;
+    bottom: 138px;
+    background: none;
+   
+    right: 410px;
+    width: 200px;
+    height: 70px;
+    padding: 0%;
+   
+}
+
+.con{
+    height: 33px;
+    padding-right: 70px;
+    background-color: rgb(245, 127, 49);
+    padding: 20px;
+    width: 100%;
+}
+
+
+
+article{
+    padding: 100%;
+    position: relative;
+    float: left;
+    padding: 0px;
+    width: 36%;
+    text-align: left;
+    background: transparent;
+    height: 100%;
+    background-image:linear-gradient(rgb(240, 83, 26),aliceblue,aliceblue,aliceblue,aliceblue, coral);
+    font-size: 25px;
+    
+    color: brown;
+    padding-bottom: 70px;
+    line-height: 50px;
+    
+}
+
+
+
+.id{
+    padding-right: 10px;
+    padding: 0%;
+    left: 36px;
+    height: 180px;
+    top: 0px;
+    width: 300px;
+    position: relative;
+}
+
+
+
+.courses{
+    font-size: 65px;
+    position: relative;
+    background-image: url(pra/au.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 20px;
+    border-radius: 150px;
+    padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-right: 50px;
+    left: 50px;
+    text-align: center;
+    color: darkorange;
+    text-shadow: 20px;
+    
+}
+
+
+.p1{
+    font-size: 16px;
+    color: wheat;
+    left: 20px;
+    top: 0px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:contain;
+    position: relative;
+}
+
+
+.about{
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: coral;
+    border-style: groove;
+    color: aqua;
+}
+
+li{
+    margin: 40px;
+}
+
+
+.slider-frame{
+    overflow: hidden;
+    height: 800px;
+    width: 1200;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+.slider-images{}
+
+ 
+
+
+.h1{
+    font-size: 52px;
+    bottom: 0px;
+    outline-color: blue;
+    text-decoration-color: blueviolet;
+    font-family: algebrian;
+    font:bold;
+    color: chartreuse;
+    position: relative;
+    right: 0px;
+    text-align: top;
+}
+
+.testimonial{
+    font-size: 45px;
+    position: relative;
+    bottom: 0px;
+    color: yellow;
+    left: 0px;
+}
+
+.test{
+    font-size: 15px;
+    position: relative;
+    top: 0px;
+    color: rgb(0, 255, 242);
+    left: 30px;
+
+}
+
+.letter1{
+    position: relative;
+    width: 80px;
+    padding: 0px;
+    height: 110px;
+    left: 46px;
+    bottom: 578px;
+
+}
+
+.edu{
+    background-image: linear-gradient(purple,gray,purple);
+    height: 430px;
+    border: 10px;
+    border-color: palevioletred;
+    border-style: dashed;
+    width: 389px;
+    padding: 0px;
+    position: relative;
+    bottom: 90px;
+    left: 604px;
+}
+
+.edu1{
+    color: aliceblue;
+    font-size: 17px;
+    padding: 0px;
+    left: 7px;
+    bottom: 410px;
+    position: relative;
+}
+
+.edu2{
+    color: rgb(171, 181, 214);
+    font-size: 17px;
+    padding: 0px;
+    bottom: 759px;
+    left: 186px;
+    position: relative;
+}
+
+.f{
+    left: 600px;
+    top: 70px;
+    position: relative;
+    height: 510px;
+    width: 385px;
+    padding-right: 30px;
+    padding: 0px;
+    padding-bottom: 300px;
+    background-image: linear-gradient(black,rgb(63, 48, 48),brown);
+}
+
+header{
+    color: white;
+    font-family:algebrian ;
+    position: absolute;
+    bottom: 444px;
+    text-align: center;
+    font-size: 47px;
+    padding: 2px;
+    padding-top: 23px;
+    width: 385px;
+    background-position: center;
+    background-image: url(pic/m2.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.form{
+    position: relative;
+    text-align: center;
+    bottom: 560px;
+    font-size: 20px;
+    line-height: 50px;
+    font-family: sans-serif;
+    color: red;
+}
+
+input{
+    border top: none;
+    border right: none;
+    padding: 0px;
+    border left: none;
+    position: relative;
+    background: transparent;
+}
+
+input:focus{
+    color: rgb(74, 74, 172);
+    font-size: 40;
+    top: 0px;
+}
+
+
+
+.i{
+    
+    border-color: orange;
+    border-left: none;
+    border-top: none;
+    outline: none;
+    bottom: 5px;
+    border-right: none;
+    position: relative;
+    text-align: center;
+    inline-size: auto;
+    padding-right: 0px;
+}
+
+.su{
+    position: relative;
+    background: transparent;
+    color: black;
+    top: 20px;
+    padding-right: 20px;
+    border-color: chocolate;
+    border-radius: 10px;
+    size: 10px;
+}
+
+
+
+.icons a{
+    text-decoration: none;
+    color: wheat;
+    font-size: 40px;
+    width: 20px;
+   
+}
+
+.icons{
+    align-items: center;
+    padding-right: 0px;
+    word-spacing: 20px;
+    top: 60px;
+    position: relative;
+}
+img{
+    padding: 0px;
+    position: relative;
+    width: 50%;
+    height: 70%;
+}
+
+table{
+    height: 45px;
+    width: 50%;
+    color: white;
+    border-color: rgb(0, 195, 255);
+    border-style:dashed;
+    border-width: 10px;
+    position: relative;
+    font-size: 30px;
+    top: 20px;
+    left: 20px;
+    table-color: rgb(226, 94, 238) ;
+}
+
+.tr{
+    color: rgb(0, 255, 115);
+}
+
+.adongo{
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 0px; 
+}
+
+
+.slide{
+    padding: 0px;
+    position: relative;
+}
+
+.slider{
+    position: relative;
+    height: 200px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+
+.wassce{
+    position: relative;
+    height: 570px;
+    width: 600px;
+    left: 650px;
+    bottom: 570px;
+}

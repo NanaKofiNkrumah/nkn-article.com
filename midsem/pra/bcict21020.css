@@ -1,0 +1,160 @@
+.bg{
+    background-image: url(ba.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    
+}
+
+.p{
+   text-align: center;
+   font-family:serif;
+   font-size: 52px;
+   color: orange;
+   text-underline-position: below;
+   padding: 20px;
+   background-color: transparent;
+   border-color: orangered;
+   border-style: double;
+   border-radius: 33px;
+   border-width: 30px;
+}
+
+.a{
+    background-image: url(elec.png);
+    position:relative ;
+    background-attachment:fixed;
+    background-size:contain;
+    height: 20px;
+    color: rgb(50, 18, 168);
+    text-shadow: 20px;
+    text-align: center;
+    font-size: 43px;
+    padding-bottom :100px;
+    padding-top: 30px;
+    border-style:outset;
+    border-color: brown;
+    position: relative;
+}
+
+
+.bg1{background-image: url(elec.png);
+background-repeat: no-repeat;
+background-size: 170% 150%;
+position: relative;
+background-position: center;
+}
+
+.bg2{background-image: url(csl.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    background-position: center;
+
+}
+
+.a1{
+    background-image: url(csl.jpg);
+    position:relative ;
+    background-attachment:fixed;
+    background-size:contain;
+    height: 20px;
+    color: rgb(67, 20, 194);
+    text-shadow: 20px;
+    text-align: center;
+    font-size: 43px;
+    padding-bottom :100px;
+    padding-top: 30px;
+    border-style:outset;
+    border-color: brown;
+    position: relative;
+}
+   
+.a2{
+    background-image: url(acc.png);
+    position:relative ;
+    background-attachment:fixed;
+    background-size:contain;
+    height: 20px;
+    color: rgb(67, 15, 151);
+    text-shadow: 20px;
+    text-align: center;
+    font-size: 43px;
+    padding-bottom :100px;
+    padding-right: 120px;
+    padding-top: 30px;
+    top: 150px;
+    border-style:outset;
+    border-color: brown;
+    position: relative;
+    
+}
+  
+.a3{
+    background-image: url(wt.png);
+    position:relative ;
+    background-attachment:fixed;
+    background-size:contain;
+    height: 20px;
+    color: rgb(67, 15, 151);
+    text-shadow: 20px;
+    text-align: center;
+    font-size: 43px;
+    padding-bottom :100px;
+    padding-right: 120px;
+    padding-top: 30px;
+    top: 150px;
+    border-style:outset;
+    border-color: brown;
+    position: relative;
+    
+}
+
+.bg1{background-image: url(elec.png);
+    background-repeat: no-repeat;
+    background-size: 170% 150%;
+    position: relative;
+    background-position: center;
+    }
+.bg2{background-image: url(acc.png);
+        background-repeat: no-repeat;
+        background-size: 170% 150%;
+        position: relative;
+        background-position: center;
+        }
+
+    .bg3{background-image: url(csl.jpg);
+        background-repeat: no-repeat;
+        background-size: 170% 150%;
+        position:relative;
+        scroll-behavior:auto;
+        background-position: center;
+        }
+    
+        .bg4{background-image: url(wt.png);
+            background-repeat: no-repeat;
+            background-size: 170% 150%;
+            position: relative;
+            background-position: center;
+            }
+
+            .h{
+                position: relative;
+                bottom: -210px;
+                padding: 30px;
+                background-image: linear-gradient(white, green, blue);
+            }
+
+            .p1{
+                color: aqua;
+                font-size: 32px;
+            }
+            .p2{
+                color: rgb(10, 1, 32);
+                font-size: 42px;
+            }
+
+            .p3{font-size: 42px;
+                color: antiquewhite;
+
+            }
